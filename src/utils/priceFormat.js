@@ -1,3 +1,3 @@
-const priceFormat = (price) => `${price / 100} €`
+const priceFormat = (price) => `$${price / 100}`
 
 export default priceFormat
