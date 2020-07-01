@@ -28,6 +28,7 @@ const CartSummary = () => {
       </S.Row>
       <S.Row>
         <input
+          id="coupon-input"
           className="MuiTypography-root MuiTypography-body1"
           type="text"
           placeholder="Your Coupon Code"
