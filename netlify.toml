@@ -2,4 +2,4 @@
   command = "npm run build"
   functions = "functions"
   publish = "public"
-  environment = { STRIPE_SECRET_KEY = "sk_test_51GzVoFE9LBGLTpnO4bF1A21vozPJxe8mJ6N7nb2oE03IHEQlXlVH7dKiRsihkYibqmmsk7E7sWAaV3fxPnWtRDjU003f1w0pAX", STRIPE_PUBLISHABLE_KEY = "pk_test_51GzVoFE9LBGLTpnOReOCeYM8Y0OgGMCQncdATHRXMShRutuVywUpTxWPqiq3cxRDgUHpYnP2IYbLPizTqj9dKxOC00qERPKKo2" }
+  environment = { GATSBY_STRIPE_SECRET_KEY = "sk_test_51GzVoFE9LBGLTpnO4bF1A21vozPJxe8mJ6N7nb2oE03IHEQlXlVH7dKiRsihkYibqmmsk7E7sWAaV3fxPnWtRDjU003f1w0pAX", GATSBY_STRIPE_PUBLISHABLE_KEY = "pk_test_51GzVoFE9LBGLTpnOReOCeYM8Y0OgGMCQncdATHRXMShRutuVywUpTxWPqiq3cxRDgUHpYnP2IYbLPizTqj9dKxOC00qERPKKo2" }
