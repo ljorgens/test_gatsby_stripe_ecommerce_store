@@ -24,7 +24,7 @@ const CartSummary = () => {
       </S.Row>
       <S.Row>
         <Typography>Total (VAT Included)</Typography>
-        <Typography>{priceFormat(cartSubtotal)}</Typography>
+        <Typography id="cart-total-price">{priceFormat(cartSubtotal)}</Typography>
       </S.Row>
       <S.Row>
         <input
