@@ -1,3 +1,7 @@
+ENV Variables:
+GATSBY_STRIPE_SECRET_KEY=
+GATSBY_STRIPE_PUBLISHABLE_KEY=
+
 # Gatsby Starter Ecommerce
 
 Gatsby starter to create an ecommerce website with netlify and stripe. Setup and release your shop in a few minutes.
